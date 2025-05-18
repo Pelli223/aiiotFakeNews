@@ -1,2 +1,5 @@
 .venv
 .vscode
+trainer_output
+results
+best_model.pt
